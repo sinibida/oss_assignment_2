@@ -13,7 +13,7 @@
 
 ### 1. top
 
-![](images/linux/top.gif/raw=true)
+![top.gif](/images/linux/top.gif?raw=true)
 
 현재 리눅스 시스템의 상태 및 현재 실행 중인 프로세스 목록을 보여주는 명령어이다.
 
