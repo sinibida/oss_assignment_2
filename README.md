@@ -43,7 +43,7 @@
 
 ### 3. jobs
 
-(TODO 이미지 추가)
+![jobs 사용법](/images/linux/jobs.gif?raw=true)
 
 현재 쉘 안에서 실행중인 프로세스 목록을 보여주는 명령어이다.
 *kill* 또는 *fg* 명령어에서 사용할 수 있는 job number를 제공한다.
@@ -58,7 +58,7 @@
 
 ### 4. kill
 
-(TODO 이미지 추가)
+![kill 사용법](/images/linux/kill.gif?raw=true)
 
 실행 중인 프로세스에게 종료 신호를 보내는 명령어이다.
 
