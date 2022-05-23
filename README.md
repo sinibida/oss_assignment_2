@@ -42,7 +42,7 @@ vim에서 매크로를 사용하려면 먼저 매크로를 레지스터*register
 
 #### 예시
 
-![vim 매크로 녹화](/images/vim/record.gif?raw=true)
+![vim 매크로 녹화](/images/vim/recording.gif?raw=true)
 
 `qaiabc<Esc>q`
 
